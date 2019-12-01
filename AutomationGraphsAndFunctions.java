@@ -13,7 +13,7 @@ import junit.framework.Assert;
 
 
 
-public class AutomationGraphs and Functionsarithimic {
+public class AutomationGraphs and AutomationGraphsAndFunctions {
 	
 	public static void main(String args[] ) throws MalformedURLException   {
 	DesiredCapabilities dc= new DesiredCapabilities();
